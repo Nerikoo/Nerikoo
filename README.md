@@ -27,19 +27,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on Spain
+-🔭 I am currently working in Spain.
 
-- 🌱 I’m currently learning **Devops**
+-👨‍💻 I am currently learning Devops
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+-💬 Ask me about Java, Python, PHP and HTML
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+-📫 How to contact me AndresPM@gmail.com
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+-📄 Get to know my experiences my experiences.
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **I think I'm funny**
+-⚡ Fun fact I think I'm pretty much an initiator.
 
 <br>
 <h3 align="left">Connect with me:</h3>
