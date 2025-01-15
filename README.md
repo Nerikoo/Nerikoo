@@ -2,6 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Andrés Pacheco</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">A passionate Programmer from Spain</h3>
 <p align="center">I'm fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. And I also love exploring new tech 💻 and harnessing it to build cool new things.🛠️</p>
 <p align="center"> 
@@ -90,8 +91,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
