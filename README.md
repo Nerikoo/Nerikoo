@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Programmer from Spain</h3>
 <p align="center">I'm fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. And I also love exploring new tech 💻 and harnessing it to build cool new things.🛠️</p>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?Nerikoo&label=Profile%20views&color=0e75b6&style=flat" alt="tu_nombre_usuario" />
+ <img src="https://komarev.com/ghpvc/?username=nerikoo&label=Profile%20views&color=0e75b6&style=flat" alt="Nerikoo" /> 
 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
